@@ -1,0 +1,23 @@
+.banner{
+    display: flex;
+    width: 80%;
+    margin: auto;
+}
+
+.items_cv{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    top: 40px;
+    bottom: 40px;
+    right: calc(10% + 30px);
+}
+
+.foto-carnet{
+    width: 200px;
+    bottom: 30px;
+    left: calc(10% + 30px);
+}
+
+

@@ -1,0 +1,21 @@
+.logo-ar-pr {
+    width: 150px;
+    margin-left: 130px;
+}
+
+.logos-redes {
+   display: flex;
+   align-items: center;
+   margin-right: 175px;
+}
+
+.logos-redes > a > svg{
+    margin: auto 4px;
+        
+}
+
+.header-logo{
+    display: flex;
+    justify-content: space-between;
+}
+
